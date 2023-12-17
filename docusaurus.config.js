@@ -5,7 +5,7 @@ const config = {
   title: 'AI-DevHub',
   tagline: 'Your ultimate resource hub for all things Artificial Intelligence and Machine Learning',
   favicon: 'img/favicon.ico',
-  url: 'https://ai-dev-hub.web.app/',
+  url: 'https://ai-dev-hub.com/',
   baseUrl: '/',
   organizationName: 'AI-DevHub',
   projectName: 'AI-DevHub',
