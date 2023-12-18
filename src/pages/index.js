@@ -33,7 +33,7 @@ function HomepageHeader() {
 export default function Home() {
 	const { siteConfig } = useDocusaurusContext();
 	return (
-		<Layout title={`Hello from ${siteConfig.title}`} description="Description will go into a meta tag in <head />">
+		<Layout title={`${siteConfig.title}`} description="your premier destination for exploring the world of Artificial Intelligence (AI) development tools <head />">
 			<HomepageHeader />
 			<main className="container">
 				<HomepageFeatures />
