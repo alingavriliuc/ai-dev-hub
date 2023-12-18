@@ -21,6 +21,9 @@ function HomepageHeader() {
 					<Link className="button button--secondary button--lg" to="/docs/machine-learning/">
 						Discover tools &#x2192;
 					</Link>
+					<Link className="button button--secondary button--lg margin--sm" to="https://github.com/alingavriliuc/ai-dev-hub">
+						Start contributing &#x2192;  
+					</Link>
 				</div>
 			</div>
 		</header>

@@ -50,7 +50,12 @@ const config = {
             sidebarId: 'docSidebar',
             position: 'left',
             label: 'Resources',
-          }
+          },
+          {
+            href: 'https://github.com/alingavriliuc/ai-dev-hub',
+            label: 'GitHub',
+            position: 'right',
+          },
         ],
       },
       prism: {
